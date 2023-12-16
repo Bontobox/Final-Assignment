@@ -41,7 +41,7 @@ body {
         - change the text colour to white, and 
         - change the cursor to pointer.
 */
-
+/* This elements goes over the whole site */
 h1{
     font-size: 48px;
     text-align: center;
@@ -68,7 +68,7 @@ a{
     color: black;
     text-decoration: none;
 }
-/*line style while hovering
+/*line style while hovering */
 a:hover{
     text-decoration: underline;
 }
@@ -225,7 +225,7 @@ footer{
     - the edges of the button will line up exactly with the text-area element. HINT: time for some math!
 */
 
-
+/*Contact Page Elements */
 .contact{
     height: 420px;
     width: 500px;
